@@ -4,20 +4,25 @@
 
 1. **Part A notebook**
 
-   **Location: **`PartA-B1.ipynb`
+   **Location:**
+   `PartA-B1.ipynb`
    
-   **Uses: ** `business-licences.geojson`
+   **Uses:**
+    `business-licences.geojson`
 
 
 3. **Part B Streamlit app**
    
-   **Location: **`app.py`
+   **Location:**
+   `app.py`
    
-   **Uses: ** `licences_clean.csv`
+   **Uses:**
+    `licences_clean.csv`
 
 5. **A short report (PDF or notebook export)
    
-   **Location: \*\*`report.pdf`
+   **Location:**
+   `report.pdf`
 
 ## Overview
 

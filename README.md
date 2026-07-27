@@ -1,5 +1,19 @@
 # IAT 461 — Assignment 3: Unsupervised Learning — Vancouver Business Licences Explorer
 
+**NOTE**
+
+1. **Part A notebook**
+   **Location: **`PartA-B1.ipynb`
+    **Uses: ** `business-licences.geojson`
+
+
+3. **Part B Streamlit app**
+   **Location: **`app.py`
+   **Uses: ** `licences_clean.csv`
+
+4. **A short report (PDF or notebook export)
+   **Location: \*\*`report.pdf`
+
 ## Overview
 
 In this assignment you will apply unsupervised learning — clustering, PCA, and an interactive Streamlit app — to a real, messy, large open dataset: the City of Vancouver's business licence records. There is no scaffold notebook handing you clean data or pre-built functions. You will acquire and clean the real dataset yourself, engineer features, run clustering and PCA, and build an interactive app to explore neighborhood-level results.
